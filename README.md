@@ -34,6 +34,6 @@ Make sure Docker and Docker Compose are installed.
 Then, from the project root:
 
 ```bash
-docker-compose up -d --build
+docker compose up -d --build
 ```
 Visit http://localhost:9000 to see the app in action
