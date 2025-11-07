@@ -36,4 +36,4 @@ Then, from the project root:
 ```bash
 docker compose up -d --build
 ```
-Visit http://localhost:9000 to see the app in action
+Visit http://localhost:5000 to see the app in action
